@@ -5,9 +5,9 @@ import webbrowser
 import calendar
 
 # Microsoft Graph API credentials
-CLIENT_ID = '11a1c536-f7fc-4902-83a4-44dd3d7cdff1'
-CLIENT_SECRET = 'your_client_secret'
-REDIRECT_URI = 'your_redirect_uri'
+CLIENT_ID = ' '
+CLIENT_SECRET = ' client_secret'
+REDIRECT_URI = ' redirect_uri'
 SCOPE = ['offline_access', 'user.read', 'mail.send']
 
 # OpenAI API key
